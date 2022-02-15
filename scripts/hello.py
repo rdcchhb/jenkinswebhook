@@ -5,7 +5,7 @@
 def main():
 
     # this will be displayed to standard out
-    print("hello from Haibin")
+    print("hello from Haibin...")
     
 if __name__ == "__main__":
     main()
